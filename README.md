@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Connor!</h1>
-<h3 align="center">An aspiring developer</h3>
-
-<p align="left"> <a href="https://twitter.com/cdwc25" target="blank"><img src="https://img.shields.io/twitter/follow/cdwc25?logo=twitter&style=for-the-badge" alt="cdwc25" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
